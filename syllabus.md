@@ -4,7 +4,7 @@
 
 **Professor**: Dr. Matt O'Donnell  
 **Email**: mbod@asc.upenn.edu  
-**Office Hours**: ???Tuesday 11.30am-12.30pm, Thursday 11.30am-12.30pm & by appointment
+**Office Hours**: ???Monsday 11.30am-12.30pm, Wedsday 11.30am-12.30pm & by appointment
 **Office**: 404 ASC  
 
 ## Course Description, Goals and Objectives
@@ -40,9 +40,9 @@ in which students will work through programming exercises using Jupyter notebook
 1. **Complete the assigned readings and participation in class discussion (10%)**
 	* Readings for each week will be posted on Canvas when electronic versions are available or taken from one of the recommended textbooks.
 2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
-    * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
+    * Wedsday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
-	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
+	* Weekly assignments will be due at 5pm on the Monsday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 3. **Complete a project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
     * The goal of this project is to create an engaging blog post similar those produced by data journalists after [State of the Union](https://www.washingtonpost.com/news/monkey-cage/wp/2015/01/21/the-state-of-the-union-address-in-a-single-figure/?utm_term=.1a2854849261) addresses or on a topic like ['How men and women talk about love'](https://www.nytimes.com/interactive/2017/11/07/upshot/modern-love-what-we-write-when-we-write-about-love.html) in the NYTimes recently.
     
@@ -90,106 +90,108 @@ A central goal of this class is to help students begin to develop programming sk
 * **N.B.** - This is a tentative schedule that is subject to change
 
 ### Week 1 - Overview
-* Thur 01/11/18 - **Course overview**
+* Wed 01/16/19 - **Course overview**
 
 ### Week 2 - Introduction
-* Tue 01/16/18 - **Introduction to Corpus Linguistics and NLP** 
+* ??? - **Introduction to Corpus Linguistics and NLP** 
 	* What are corpus linguistics and natural language processing?
 	* Counting words and finding patterns in language
 
-* Thur 01/18/18 - **Lab session 1**: Setting up Python. Jupyter notebooks. First scripts for text analysis
+* Wed 01/23/19 - **Lab session 1**: Setting up Python. Jupyter notebooks. First scripts for text analysis
 
 ### Week 3 - What is a corpus?
-* Tue 01/23/18 - **Types of corpora**
+* Mon 01/28/19 - **Types of corpora**
     - **Readings**: _Baker Chs. 1&2_; _NLTK Book Ch. 1 (sections 1, 2 & 4 )_ http://www.nltk.org/book/ch01.html  
     - **Assignment 1 DUE 5pm**
 
-* Thur 01/25/18 - **Lab session 2**: Reading files. Listing directories. Manipulating strings. Loops and Conditions.
+* Wed 01/30/19 - **Lab session 2**: Reading files. Listing directories. Manipulating strings. Loops and Conditions.
 
 ### Week 4 - Frequency lists and Concordance Analysis
-* Tue 01/30/18 - **How and what to count**
+* Mon 02/04/19 - **How and what to count**
 	* Word and N-Gram lists
 	* Dispersion
 	* Using concordances (Keyword-in-context = KWIC) to find patterns and meaning
     - __Readings__: _Baker Chs. 3&4_; _NLTK Book Ch. 2 (esp. sections 1,2&4 )_ http://www.nltk.org/book/ch02.html
 	- **Assignment 2 DUE 5pm**
 
-* Thur 02/01/18 - **Lab session 3**: Creating frequency distributions and KWIC displays. Visualization techniques. Filtering lists.
+* Wed 02/06/19 - **Lab session 3**: Creating frequency distributions and KWIC displays. Visualization techniques. Filtering lists.
 
 ### Week 5 - Finding, building and using corpora
-* Tue 02/06/18 - **Corpus compilation**
+* Mon 02/11/19 - **Corpus compilation**
     * Extracting text from structured data
 	  * Using APIs to compile a corpus (e.g. Twitter)
 	  * Web scraping and crawling
     * **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 	* **Assignment 3 DUE 5pm**
-* Thur 02/08/18 - **Lab session 4**: Extracting text from web pages. Downloading data. Functions.
+* Wed 02/13/19 - **Lab session 4**: Extracting text from web pages. Downloading data. Functions.
 
 ### Week 6 - Collocation
-* Tue 02/13/18 - **Words _have_ friends**
+* Mon 02/18/19 - **Words _have_ friends**
   * Discovering meaning through context
 	* Comparing words through collocation
 	* Collocation profiles
     * **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
 	* **Assignment 4 DUE 5pm**
-* Thur 02/15/18 - **Lab session 5**: Data structures. Visualization. Functions.
+* Wed 02/20/19 - **Lab session 5**: Data structures. Visualization. Functions.
 
 ### Week 7 - Keyness
-* Tue 02/20/18 - **Discovering distinctive vocabulary**
+* Mon 02/25/19 - **Discovering distinctive vocabulary**
   	* 'Aboutness' in text
   	* Kinds of comparison
   	* Statistical significance and association
     * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
     * **Assignment 5 DUE 5pm**
-* Thur 02/22/18 - **Lab session 6**
+* Wed 02/27/19 - **Lab session 6**
 
-### Week 8 - Introduction to NLP
-* Tue 02/27/18 - **Core concepts and techniques**
+
+### Week 8 - Spring Break
+* Mon 03/04/19 - NO CLASS
+* Wed 03/06/19 - NO CLASS
+
+
+### Week 9 - Introduction to NLP
+* Mon 03/11/19 - **Core concepts and techniques**
     * NLP pipeline
   	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
   	* Example Applications
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
     * **Assignment 6 DUE 5pm**
-* Thur 03/01/18 - **Lab session 7**: Using NLTK; NLP Pipeline
-
-### Week 9 - Spring Break
-* Tue 03/06/18 - NO CLASS
-* Thur 03/08/18 - NO CLASS
+* Wed 03/13/19 - **Lab session 7**: Using NLTK; NLP Pipeline
 
 ### Week 10 - NLP: Affect and Sentiment analysis #1
-* Tue 03/13/18 - **Measuring emotion in text**
-* Thur 03/15/18 - **Lab session 8**: Using affect lexicons
+* Mon 03/18/19 - **Measuring emotion in text**
+* Wed 03/20/19 - **Lab session 8**: Using affect lexicons
   	* **Assignment 7 DUE 5pm**
 
 ### Week 11 - NLP: Affect and Sentiment analysis #2
-* Tue 03/20/18 - **Sentiment classification**
+* Mon 03/25/19 - **Sentiment classification**
   	* Supervised machine learning
   	* Building a training corpus
   	* Measuring accuracy
     * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
   	* **Assignment 8 DUE 5pm**
 
-* Thur 03/22/18 - **Lab session 9**: Building a sentiment classifier
+* Wed 03/27/19 - **Lab session 9**: Building a sentiment classifier
 
 ### Week 12 - NLP: Named Entity Recognition (NER): Who, what, when and where?
-* Tue 03/27/18 - **Identifying actors and actions in text**
+* Mon 04/01/19 - **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
   	* **Assignment 9 DUE 5pm**
-* Thur 03/29/18 - **Lab session 10**: NER and parsed corpora
+* Wed 04/03/19 - **Lab session 10**: NER and parsed corpora
 
 ### Week 13 - NLP: Topic models #1
-* Tue 04/03/18 - **Discovering clusters of words in text collections** 
+* Mon 04/08/19 - **Discovering clusters of words in text collections** 
 	* **Assignment 10 DUE 5pm**
-* Thur 04/05/18 - **Lab session 11**: Topic models and visualization
+* Wed 04/10/19 - **Lab session 11**: Topic models and visualization
 
 ### Week 14 - NLP: Topic models #2
-* Tue 04/10/18 - **Tracing topics over time** 
+* Mon 04/15/19 - **Tracing topics over time** 
 	* **Assignment 11 DUE 5pm**
-* Thur 04/12/18 - **Lab session 12**: Working on projects
+* Wed 04/17/19 - **Lab session 12**: Working on projects
 
 ### Week 15 - Class projects
-* Tue 04/19/18 - **Lab session 13**: Working on projects
-* Thur 04/21/18 - **Lab session 14**: Working on projects
+* Mon 04/22/19 - **Lab session 13**: Working on projects
+* Wed 04/24/19 - **Lab session 14**: Working on projects
 
 ### Week 16 - Class projects
-* Tue 04/24/18 - **Project presentations**
+* Mon 04/29/19 - **Project presentations**
