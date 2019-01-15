@@ -4,7 +4,7 @@
 
 **Professor**: Dr. Matt O'Donnell  
 **Email**: mbod@asc.upenn.edu  
-**Office Hours**: ???Monsday 11.30am-12.30pm, Wedsday 11.30am-12.30pm & by appointment
+**Office Hours**: TBA & by appointment
 **Office**: 404 ASC  
 
 ## Course Description, Goals and Objectives
@@ -40,7 +40,7 @@ in which students will work through programming exercises using Jupyter notebook
 1. **Complete the assigned readings and participation in class discussion (10%)**
 	* Readings for each week will be posted on Canvas when electronic versions are available or taken from one of the recommended textbooks.
 2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
-    * Wedsday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
+    * Wednesday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Weekly assignments will be due at 5pm on the Monsday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 3. **Complete a project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
