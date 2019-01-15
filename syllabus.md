@@ -1,6 +1,6 @@
 ## COMM 313: Computational Text Analysis for Communication Research
 **Spring 2019: M/W 3.30-5pm**  
-**Room: 300? ASC**  
+**Room: 300 ASC**  
 
 **Professor**: Dr. Matt O'Donnell  
 **Email**: mbod@asc.upenn.edu  
