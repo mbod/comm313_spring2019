@@ -1,0 +1,89 @@
+Q8,Q10,Q7,Q9,Q12_1,Q12_2,Q12_3,Q12_4,Q13,Q2,Q3
+How much (if any) Python programming have you done before?,Have you used a Jupyter (or IPython) web-based notebook before?,Have you done any programming in other languages before?,List the names of any programming languages you have used before:,"Some questions about web development... 
+Do you have experience with the following? - HTML","Some questions about web development... 
+Do you have experience with the following? - CSS","Some questions about web development... 
+Do you have experience with the following? - Javascript","Some questions about web development... 
+Do you have experience with the following? - Markdown","Tell me a little bit about your communication interests. For instance, are you interested in political communication, health communication, social media etc. and what kinds of questions are you interested in exploring using computational text analysis?",CAUSE,PRODUCE
+A little,Yes,Yes,R (if that counts),No,No,No,No,"Some questions I'm interested in exploring that are directly relevant to my postdoc at the Wharton Risk Center (i.e. would make the faculty directors happy):
+
+ - What does the news media talk about before, during, and/or after a hurricane?
+ - What do individuals in hurricane-prone regions tweet about before, during, and/or after a hurricane?
+ - How do these conversations differ?
+
+Some other questions I'm interested in:
+
+ - How does the language teens use to communicate with friends on social media reflect the strength, depth and/or character of these relationships?
+ - How does language produced by teens on social media associate with health beliefs and/or behaviors?
+","Oh geez, this definition thing is tricky. I'll at least use it in a sentence:
+
+The FDA's announcement of their e-cigarette deeming regulation caused increased media coverage of e-cigarette regulations.","Efforts to curb youth e-cigarette use through mass media campaigns have not produced measurable effects. 
+
+(Now realizing I never use this word in manuscripts.)"
+None at all,No,No,,No,No,No,No,"I am interested in social media communication. One day I would love to be involved in media production of some sort. I thought this class was extremely appealing, and after talking to a Communications mentor, was told it would be very interesting and helpful. I am trying to branch out a bit from my media effects type classes and become a bit more hands-on. ","As in a chain reaction, this word means one event happened solely because another happened. One thing is responsible for another. ","A by-product of; this word means one thing created something else. In the context of say a producer for videos, that person helped create the visual before you. Something that is ""produced"" was made from something else. "
+None at all,No,No,,No,No,No,No,"I am interested in taking this course because of the vast range of ways in which communication tactics can persuade an online audience especially.  The majority of marketing a ad campaigns take place in a digital setting, so I am hoping that this course offers critiques of communication strategiesi in a digital setting. ",smoking cigarettes can cause cancer. ,Jarred Goff has the chance to produce a superbowl title for the Los Angeles Rams.
+None at all,No,Yes,R,No,No,Yes,No,"I'm interested in political communication and media effects. For example, it would be interesting to analyze how the rhetoric of female Republican politicians changed since the 2016 election and especially those who self-proclaimed as feminists. Another example would be analyzing people's reactions on twitter or other social media to PR campaigns by major businesses and analyze whether those marketing campaigns were able to instill their targeted image in people's minds. ","Zeek let's say you're running away from a bigger alien, and you run into a stairway. You run downstairs to run away from the alien. Now, your fear of the alien caused you to run away from him, and your intention to do so produced your physical movements that allowed you to go downstairs. ","Zeek, let's say we have a hen that just laid eggs. That hen produced the eggs, but one hen cannot cause production of eggs because you need two chicken for the hen to be pregnant. So one hen produces eggs but one hen alone cannot cause production of eggs. "
+A moderate amount,No,No,,Yes,No,No,No,"I'm interested in social media, political communication, finance, and how different groups communicate/express themselves to name a few. For instance, the example given in the syllabus (how men and women talk about love) is something that really interests me - I would love to learn how to extract that type of information from large bodies of text. I also want to know which types of questions computational text analysis answers best.","to make something happen. 
+
+For example, this medication can cause severe nausea.","to make something come into existence.
+
+Company XYZ has just produced a new drug to treat blindness."
+None at all,No,Yes,I used very basics of R last semester in Comm310 with Professor Falk,No,No,No,No,"I am interested in how association with various identities influences behaviors, health communication, and potentially the role of social media in the middle east.",to influence something to occur,to be actively involved in the creation of something/a result. 
+A moderate amount,Yes,Yes,"JavaScript, Swift, ObjC, MATLAB, and a bit of Java",Yes,Yes,Yes,Yes,"Interested in health communication and w.r.t computational text analysis, am interested in answering questions like ""what are adverse drug interactions?"" and just generally entity recognition. I am also interested in better understanding how to analyze text in the context of social media with the ultimate goal of trend prediction (I'm guessing this relates somewhat to sentiment analysis).","the reason for something
+",to create
+None at all,No,Yes,R,No,No,No,No,I’m interested in health communication and social media,To make something happen,To create something
+A little,No,Yes,R and SQL,No,No,No,No,"As a student concentrating in Marketing and Business Analytics, my primary interest would be applications of text analysis for social media. I think it could unlock a lot of potential for me and give me an analytical edge. Additionally, I want to broaden my horizons and think this course is an excellent way to do so.","""Cause"" indicates that one event or condition led to something else occurring, but does not necessarily mean that it directly constructed the second event. We gauge causation by correlation and chronological occurrence.
+
+Example: An icy road was the cause of the accident.","""Produce"" indicates that one event directly manufactured a second event.
+
+Example: Moisture and cold temperature produced ice on the road."
+None at all,No,No,,No,No,No,No,I am most interested in political communication and I’m interested in analyzing political attitudes towards marginalized groups and social attitudes towards celebrities!,either a verb or a noun. verb: to instigate something that otherwise would not have happened. noun: the instagator itself. Ex: The nuclear explosion caused an earthquake ten miles under the sea. The explosion was the cause of the quake. ,"verb: to make something or bring something about. Can also mean to summon something. Ex: during my whittling workshop, I produced this bench. Ex: He produced the notebook from his backpack. 
+
+Can also be a noun meaning vegetables and fruit. Ex: the farmers market sells fresh produce. "
+None at all,No,Yes,R,No,No,No,No,"Political Communiction, and Social Media",Cause implies nonspuriousness leading to an effect,Produce implies that  creator has crafted a product using their own means
+A lot,No,Yes,"Java, JavaScript, html/css",Yes,Yes,Yes,Yes,Social media communication,,
+None at all,No,No,,No,No,No,No,"I'm interested in advertising, marketing, the political economy of media, political communication, internet privacy and data collection, and artificial intelligence and algorithmic culture. I'm interested in seeing how computational text analysis can help expand my study and understanding of communication topics and potentially become a research tool that I can use in the near future.","To instigate or induce, as in to make something happen. 
+For example, rainstorms can cause mudslides.","To bring into existence or create.
+For example, chemicals can be combined to produce new chemicals."
+None at all,No,Yes,"RStudios, R Markdown",No,No,No,Yes,"I am very interested in studying marketing and messaging communication as well as the use of social media in shaping a brand. I hope to pursue a career in business and marketing, potentially focusing on brand management. Using text analysis, I am curious to explore how businesses make product, brand, or messaging related decisions based on consumer preferences and insights.  While understanding the larger topics of marketing and consumer behavior are critical, I also hope to learn how I can use Python to analyze market trends, social media perceptions, and marketing strategies in the future. I'm very excited to explore an entirely new field this semester! ","Cause is something that drives an outcome. For example, eating healthier and exercising will cause a healthier heart and body. Also, spraying perfume will cause the room to smell a certain way.","Produce is an outcome that occurs as a result of something that was caused. It is also to create or build something. For example, the manufacturing company produces thousands of shoes a year. "
+A little,No,Yes,"Java, HTML, R ",Yes,No,No,No,I'm particularly interested in marketing communications (which I guess in a certain model can be adjusted to other forms of communication) and the ways in which consumers recommend for other people. ,I define cause (verb) as being the source or reason for an event or action. For instance I pushed the bookshelf onto the floor. This caused all the books and the bookshelf to be on the floor. ,"I define produce (verb) as being to make something, to create something (ie a television show, a newspaper, etc), to show something to someone else, or to be the cause of something.  
+
+In order: 
+Ford produces 10,000 F150 trucks per month. 
+
+Marvel studios produced Ant Man and The Wasp. 
+
+I produced the 4 dollar coin from my pocket and showed it to my friend. 
+
+Eating too much food can produce feelings of nausea. "
+A moderate amount,Yes,Yes,I took CIS 105 last semester (Python) and am currently enrolled in CIS 110 (Java). ,Yes,No,Yes,No,"I'm interested in media studies generally, but am specifically interested in social media, marketing, design, and data visualization.  I am also interested in political communications and have taken several PSCI/COMM classes so far at Penn.",when actions or words lead to a certain result occurring,when actions or words create or help to create something
+None at all,No,No,,No,No,No,No,I am a Linguistics major and an interested in natural language processing.,Describes the act of effecting a change. Object is usually an event or intangible feeling.,Describe the act of making. Object is usually a physical object.
+None at all,No,Yes,minimal amounts of Java,No,No,No,No,"social media, social phenomenon, public attitudes (not political)","To cause something means to take an action in order to make another event happen. 
+
+If you tip a glass over, it will break.","To produce something means to intentionally make an action or thing come about by combining more than one element. 
+
+Plants produce their food through photosynthesis, which combines sunlight and water."
+None at all,No,Yes,HTML,Yes,Yes,No,No,I'm interested in media and communications. I am intrigued by how it's rapidly changing and how it affects people's lives.,To manipulate,To create a product
+None at all,No,Yes,"Java, OCaml, Mathematica",No,No,No,No,"Interested in social media, marketing and social/cultural research. I want to attain some quantitative skills to be able to better understand trends and communities in the internet. ",The reason for the occurrence of a certain event or condition.,Things that have been grown in a farm
+A little,Yes,Yes,Powershell,Yes,No,No,No,"Metaphysics & Epistemology, applied to critical theory","A sufficient explanation of a certain reaction to an effect
+
+In billiards, the cueball causes the other balls to move (mechanistic example)
+
+","A sufficient explanation of an outcome from certain effects
+
+The function of an industrial factory is to produce widgets"
+None at all,No,Yes,"HTML, CSS",Yes,Yes,No,No,"Interested in entertainment media industries, specifically in branding and advertising. Also interested in digital media technologies, art, and visual communication. Currently curious about children's media and youth media, in particular.
+
+Concerning computational text analysis, I have questions about search engine data, and social media data. ","Cause: to make something existing happen, change, or transform by affecting a variable. 
+Ex. I cause an apple to fall from the tree, by shaking it.","Produce: to create something new from where it didn't exist before.
+Ex. I produce an apple, by planting the tree, and waiting for it to bear fruit."
+,,,,,,,,,,
+None at all,No,No,,No,No,No,No,I am interested in analyzing text from aggregated social media posts in order to better understand the nature of how people form opinions online. ,To cause is when a result is produced as a direct response to an action. ,To produce means to create something whether or not there is intentionality in a given action. 
+None at all,No,No,,No,No,No,No, , , 
+None at all,No,Yes,Java (CIS 110),No,No,No,Yes,"I am interested in social media, particularly tweets. I think that President Trump has uniquely used Twitter as an online platform to boldly and unabashedly communicate his ideas, and I think that it would be interesting to investigate what types of language go viral online.","Definition (v): to engender, make something happen, give rise to
+
+Example: A government shutdown might cause riots by furloughed workers.","Definition (v): to manufacture, to bring into existence
+
+The firm produces ten million units of milk in a given month."
+,,,,,,,,,,
+A little,No,No,,No,No,No,No,"I am interested in analyzing texts and reviews on blogs and other social media. I have a broad range of interest regarding urban issues. Recently, I have done keyword analysis on pepople's perceptions on space, which inspired me to learn more about text-mining. ","cause: when A leads the result of B, A causes B. 
+e.g.) a thunderstorn can cause disaster. ","produce: If A yields B, A produces B. e.g.) A farmer produces crops."
